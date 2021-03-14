@@ -1,4 +1,4 @@
-* [Buttercup Password Manager](/)
+* [Buttercup Password Manager](/about)
 * [Core usage](/core)
   * [Basic usage](/usage/basic)
   * [Credentials](/usage/credentials)

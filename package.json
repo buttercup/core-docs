@@ -1,0 +1,28 @@
+{
+  "name": "@buttercup/core-docs",
+  "version": "0.0.0",
+  "description": "Documentation for Buttercup core",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buttercup/core-docs.git"
+  },
+  "keywords": [
+    "buttercup",
+    "core",
+    "docs"
+  ],
+  "author": "Perry <perry@perrymitchell.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/buttercup/core-docs/issues"
+  },
+  "homepage": "https://github.com/buttercup/core-docs#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}

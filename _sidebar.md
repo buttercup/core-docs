@@ -1,3 +1,5 @@
 * [Buttercup Password Manager](/)
 * [Core usage](/core)
+  * [Basic usage](/usage/basic)
+  * [Credentials](/usage/credentials)
   * [Application Environment (App Env)](/usage/app-env)

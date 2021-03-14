@@ -4,9 +4,9 @@
 
 > JavaScript password manager
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Free and Open-Source
+- Highly secure
+- Cross platform
 
 [GitHub](https://github.com/buttercup/buttercup-core)
 [Get Started](/about)
